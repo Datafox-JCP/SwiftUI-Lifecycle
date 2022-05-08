@@ -17,7 +17,7 @@ class MyAppDelegate: NSObject, UIApplicationDelegate {
         return true
     }
     
-    // 5. Para usar el ScenDelegate
+    // 5. Para usar el SceneDelegate
     
     func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
         

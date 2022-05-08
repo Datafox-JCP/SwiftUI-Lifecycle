@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C62697B7282742BF00D1F6D9 /* ciclovidapp.png in Resources */ = {isa = PBXBuildFile; fileRef = C62697B6282742BE00D1F6D9 /* ciclovidapp.png */; };
 		C688A3F02826EE6900A3CBBB /* SwiftUI_LifecycleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C688A3EF2826EE6900A3CBBB /* SwiftUI_LifecycleApp.swift */; };
 		C688A3F22826EE6900A3CBBB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C688A3F12826EE6900A3CBBB /* ContentView.swift */; };
 		C688A3F42826EE7800A3CBBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C688A3F32826EE7800A3CBBB /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C62697B6282742BE00D1F6D9 /* ciclovidapp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ciclovidapp.png; sourceTree = "<group>"; };
 		C688A3EC2826EE6900A3CBBB /* SwiftUI-Lifecycle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Lifecycle.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C688A3EF2826EE6900A3CBBB /* SwiftUI_LifecycleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_LifecycleApp.swift; sourceTree = "<group>"; };
 		C688A3F12826EE6900A3CBBB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 		C688A3EE2826EE6900A3CBBB /* SwiftUI-Lifecycle */ = {
 			isa = PBXGroup;
 			children = (
+				C62697B6282742BE00D1F6D9 /* ciclovidapp.png */,
 				C688A3EF2826EE6900A3CBBB /* SwiftUI_LifecycleApp.swift */,
 				C688A3FD2826F19F00A3CBBB /* MyAppDelegate.swift */,
 				C688A3FF2826F47400A3CBBB /* MySceneDelegate.swift */,
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C62697B7282742BF00D1F6D9 /* ciclovidapp.png in Resources */,
 				C688A3F72826EE7800A3CBBB /* Preview Assets.xcassets in Resources */,
 				C688A3F42826EE7800A3CBBB /* Assets.xcassets in Resources */,
 			);
